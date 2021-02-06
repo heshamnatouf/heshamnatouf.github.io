@@ -11,19 +11,34 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
 
 - Bulleted
 - List
 
 1. Numbered
 2. List
+  * Item 1
+  * Item 2
+      * Item 2a
+      * Item 2b
 
-**Bold** and _Italic_ and `Code` text
+*This text will be italic*
+_This will also be italic_
 
-[http://www.heshamn.com/](url) and ![Image](src)
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+  
+  As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+[HeshamNatouf](http://natoufh.com) and ![GitHub Logo](/images/logo.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
